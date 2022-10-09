@@ -31,7 +31,6 @@ http://pynsource.atug.com/buy
 
 import os
 import sys
-from pydbg import dbg
 from common.messages import *
 import wx
 from gui.settings import PRO_EDITION, ASYNC_BACKGROUND_REFRESH

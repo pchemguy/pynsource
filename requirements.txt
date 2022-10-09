@@ -6,12 +6,10 @@ astpretty
 termcolor
 beautifultable
 appdirs
-pydbg
 aiohttp
 async_lru
 
 Pillow
-py2app
 click
 pytest
 coverage

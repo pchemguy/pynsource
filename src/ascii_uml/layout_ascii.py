@@ -1,6 +1,5 @@
 from .asciiworkspace import AsciiWorkspace
 from typing import List, Set, Dict, Tuple, Optional
-from pydbg import dbg
 
 r"""
 HOW IT WORKS
